@@ -5,9 +5,9 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:oktoast/oktoast.dart';
-import 'package:shushook_front_new/global/global_key.dart';
-import 'package:shushook_front_new/routes/app_pages.dart';
-import 'package:shushook_front_new/services/dynamic_link_service.dart';
+import 'package:app_name_package/global/global_key.dart';
+import 'package:app_name_package/routes/app_pages.dart';
+import 'package:app_name_package/services/dynamic_link_service.dart';
 import 'package:timeago/timeago.dart' as timeago;
 
 void main() {

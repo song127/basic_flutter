@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
-import 'package:shushook_front_new/pages/onboarding/bindings/splash_binding.dart';
-import 'package:shushook_front_new/pages/onboarding/views/splash_view.dart';
-import 'package:shushook_front_new/routes/app_routes.dart';
+import 'package:app_name_package/pages/onboarding/bindings/splash_binding.dart';
+import 'package:app_name_package/pages/onboarding/views/splash_view.dart';
+import 'package:app_name_package/routes/app_routes.dart';
 
 class Pages {
   Pages._();

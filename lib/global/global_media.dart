@@ -1,4 +1,4 @@
-import 'package:shushook_front_new/global/global_key.dart';
+import 'package:app_name_package/global/global_key.dart';
 
 class MediaData {
   final double width;
