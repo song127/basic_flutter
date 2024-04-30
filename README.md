@@ -1,4 +1,4 @@
-# shushook_front_new
+# Flutter New Template
 
 A new Flutter project.
 
